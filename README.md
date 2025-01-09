@@ -1,9 +1,10 @@
 # 2025-Review
 
-Review/Practice place for coding (interviews, etc.)
+**Review/Practice place for coding (interviews, etc.)**
 
 
 **Core Topics:**
+
 Data Structures:
 - Arrays, Strings
 - Linked Lists (singly, doubly, circular)
@@ -27,10 +28,12 @@ Algorithms:
 
 
 **Coding Practice**
+
 Don't forget to practice LeetCode, HackerRank, Codeforces, CodeChef, AtCoder, Project Euler, etc. (Particularly on Arrays and Strings, Recursion and Backtracking, Graph Traversal, Dynamic Programming, Sliding Window + Two Pointers + Greedy approaches)
 
 
 **Comp Sci Fundamentals:**
+
 Big-O Notation:
 - Analyze time and space complexity of algorithms.
 - Common complexities: O(1), O(log n), O(n), O(n log n), O(n²), O(2ⁿ), O(n!).
@@ -38,11 +41,11 @@ Big-O Notation:
 Operating Systems:
 - Understand threading, multithreading, process scheduling, memory management, and deadlocks.
 
-**Networking**
+Networking:
 - Basics of HTTP/HTTPS, TCP/IP, DNS, and REST APIs.
 - Familiarity with load balancing and CDN.
 
-**Databases**
+Databases:
 - Basic SQL queries (SELECT, JOIN, GROUP BY, etc.).
 - Indexing and optimization.
 - Difference between SQL and NoSQL.
