@@ -14,6 +14,7 @@ Data Structures:
 - Graphs (adjacency list/matrix, DFS, BFS, shortest paths)
 - Heaps / Priority Queues
 - Sets (HashSet, TreeSet)
+- https://www.youtube.com/@WilliamFiset-videos/playlists
 
 Algorithms:
 - Sorting: QuickSort, MergeSort, HeapSort, Insertion Sort, Bubble Sort
