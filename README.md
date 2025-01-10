@@ -14,7 +14,7 @@ Data Structures:
 - Graphs (adjacency list/matrix, DFS, BFS, shortest paths)
 - Heaps / Priority Queues
 - Sets (HashSet, TreeSet)
-- https://www.youtube.com/@WilliamFiset-videos/playlists
+- https://www.youtube.com/@WilliamFiset-videos/playlists data structures and graph playlist
 
 Algorithms:
 - Sorting: QuickSort, MergeSort, HeapSort, Insertion Sort, Bubble Sort
@@ -26,7 +26,8 @@ Algorithms:
 - String Manipulation Algorithms: KMP, Rabin-Karp, Z-algorithm
 - Divide and Conquer
 - Bit Manipulation: XOR, AND, OR, bit shifts
-- https://www.youtube.com/@abdul_bari/playlists
+- https://www.youtube.com/@abdul_bari/playlists algorthims playlist
+- https://www.youtube.com/@tusharroy2525/playlists dynamic programming playlist
 
 
 **Coding Practice**
