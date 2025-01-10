@@ -25,6 +25,7 @@ Algorithms:
 - String Manipulation Algorithms: KMP, Rabin-Karp, Z-algorithm
 - Divide and Conquer
 - Bit Manipulation: XOR, AND, OR, bit shifts
+- https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
 
 
 **Coding Practice**
